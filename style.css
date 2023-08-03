@@ -6,6 +6,7 @@
     --amarelo:#FECD2F;
     --roxo:#733887;
     --font-principal: "poppins";
+    --font-secundaria: "Josefin Sans";
 }
    body{
        background-color: var(--cor-de-fundo);
